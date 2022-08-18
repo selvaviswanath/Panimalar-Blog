@@ -1,0 +1,7 @@
+.env
+.env.example
+.eslintrc
+.prettierrc
+solutions/
+node_modules/
+src1/
